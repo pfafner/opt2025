@@ -3,7 +3,9 @@
 Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Álgebra lineal computacional, 
+
 (2) Optimización numérica continua, 
+
 (3) Optimización discreta. 
 
 La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. En el segundo bloque, el bloque principal del curso, introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal y programación cuadrática. Finalmente, en el tercer bloque, hacemos una introducción a algunos métodos de optimización combinatoria y discreta. 
@@ -42,7 +44,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                              | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------ |  ---------------------------------
-01       | 01.07.2025   | Introducción. Aspectos generales del curso. <br/> | 
+01       | 01.07.2025   | Introducción. Aspectos generales del curso. <br/>                        | Repasar notas álgebra lineal. 
+02       | 03.07.2025   | Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Trefethen-Bau, Lecture 3. 
   
 # Proyectos
 <div id='id-proyectos'/>

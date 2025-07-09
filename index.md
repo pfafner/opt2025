@@ -46,7 +46,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 -------- | ------------ | ------------------------------------------------------------------------ |  ---------------------------------
 01       | 01.07.2025   | Introducción. Aspectos generales del curso. <br/>                        | Repasar notas álgebra lineal. 
 02       | 03.07.2025   | Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Trefethen-Bau, Lecture 3. 
-  
+
+
 # Proyectos
 <div id='id-proyectos'/>
 
@@ -58,11 +59,11 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 ### Textos:
 
-* [L. Trefethen, L. Bau III (1997). *Numerical Linear Algebra*.](http://library.lol/main/079EA6C3FD8CDF23B0C2ACD901CA9A26){:target="_blank"}
+* [L. Trefethen, L. Bau III (1997). *Numerical Linear Algebra*.](https://libgen.li/ads.php?md5=079ea6c3fd8cdf23b0c2acd901ca9a26){:target="_blank"}
 
-* [J. Nocedal, S. Wright (2006). *Numerical Optimization*.](http://library.lol/main/7016B74CFE6DC64C75864322EE4AA081){:target="_blank"}
+* [J. Nocedal, S. Wright (2006). *Numerical Optimization*.](https://libgen.li/ads.php?md5=7016b74cfe6dc64c75864322ee4aa081){:target="_blank"}
 
-* [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
+* [D. Luenberger, Y. Ye (2021). *Linear and Nonlinear Programming*.](https://libgen.li/ads.php?md5=a4f245169b2ca11bf27c640ffddbf957){:target="_blank"}
 
 ### Referencias adicionales:
 

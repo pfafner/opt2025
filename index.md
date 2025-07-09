@@ -67,9 +67,9 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 ### Referencias adicionales:
 
-* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
+* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](https://libgen.li/ads.php?md5=8b84557e0b5a5c8effd22ce47bc2737f){:target="_blank"}
 
-* [G. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
+* [G. Golub, C. Van Loan (2013). *Matrix Computations*.](https://libgen.li/ads.php?md5=51d5272bc715b34ac74a8034940a4008){:target="_blank"}
 
 * [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](http://library.lol/main/7D136BC80ECBF0BA65798EC129FCCAF4){:target="_blank"}
 

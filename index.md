@@ -71,7 +71,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 * [G. Golub, C. Van Loan (2013). *Matrix Computations*.](https://libgen.li/ads.php?md5=51d5272bc715b34ac74a8034940a4008){:target="_blank"}
 
-* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](http://library.lol/main/7D136BC80ECBF0BA65798EC129FCCAF4){:target="_blank"}
+* [A. Quarteroni, R. Sacco, F. Saleri (2006). *Numerical Mathematics*.](https://libgen.li/ads.php?md5=ebf3fbe744eb40bd56cc91f8a4339300){:target="_blank"}
 
 * [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
 

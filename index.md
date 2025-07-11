@@ -86,7 +86,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 * [J. Matousek, B. Gärtner, (2007). *Understanding and Using Linear Programming*.](https://libgen.li/ads.php?md5=b760fdd2b747713ec1c8f24301fc2540){:target="_blank"}
 
-* [A. Schrijver (1997). *Theory of Linear and Integer Programming*.](http://library.lol/main/35EDF7D8DFC7FCCC3939FDDAB6680ED3){:target="_blank"}
+* [A. Schrijver (1997). *Theory of Linear and Integer Programming*.](https://libgen.li/ads.php?md5=35edf7d8dfc7fccc3939fddab6680ed3){:target="_blank"}
 
 ---
 

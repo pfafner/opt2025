@@ -74,7 +74,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 * [A. Quarteroni, R. Sacco, F. Saleri (2006). *Numerical Mathematics*.](https://libgen.li/ads.php?md5=ebf3fbe744eb40bd56cc91f8a4339300){:target="_blank"}
 
-* [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
+* [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](https://libgen.li/ads.php?md5=5920d8c25547f6e67b4c990bb2a2194d){:target="_blank"}
 
 * [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
 

@@ -45,9 +45,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 **No.**  | **Fecha**    | **Tópicos**                                                              | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------ |  ---------------------------------
 01       | 01.07.2025   | Introducción. Aspectos generales del curso. <br/>                        | Repasar notas álgebra lineal. 
-02       | 03.07.2025   | Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Trefethen-Bau, Lecture 3. 
+02       | 03.07.2025   | Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Trefethen-Bau, Lecture 3. <br/> [norms.ipynb](code/norms.ipynb){:target="_blank"}
 03       | 10.07.2025   | Autovectores. Descomposición espectral. Condición para diagonalización. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Trefethen-Bau, Lecture 4.  
-04       | 15.07.2025   | Ejemplos de descomposición espectral. <br/>                              |   
+04       | 15.07.2025   | Ejemplos de descomposición espectral. <br/>                              | [spectral.ipynb](code/spectral.ipynb){:target="_blank"}  
 L1       | 15.07.2025   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Entrega: jueves 24 de julio** 
 05       | 17.07.2025   | Descomposición en valores singulares (SVD).                              | Trefethen-Bau, Lecture 5. 
 

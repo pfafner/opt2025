@@ -51,7 +51,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 L1       | 15.07.2025   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Entrega: jueves 24 de julio** 
 05       | 17.07.2025   | Descomposición en valores singulares (SVD). <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Trefethen-Bau, Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"} 
 06       | 22.07.2025   | Aplicaciones de la SVD: Componentes principales. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} 
-07       | 24.07.2025   | Aplicaciones de la SVD: Compresión de imágenes. | [image_compression_ipynb](code/svd_image_compression_basico.ipynb){:target="_blank"} | [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"}  
+07       | 24.07.2025   | Aplicaciones de la SVD: Compresión de imágenes. | [image_compression_ipynb](code/svd_image_compression_basico.ipynb){:target="_blank"} | [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} 
+
 
 
 # Proyectos

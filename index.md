@@ -52,8 +52,9 @@ L1       | 15.07.2025   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 05       | 17.07.2025   | Descomposición en valores singulares (SVD). <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Trefethen-Bau, Lecture 5. <br/> [svd.ipynb](code/svd.ipynb){:target="_blank"} 
 06       | 22.07.2025   | Aplicaciones de la SVD: Componentes principales. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} 
 07       | 24.07.2025   | Aplicaciones de la SVD: Compresión de imágenes. | [image_compression_ipynb](code/svd_image_compression_basico.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"}  
-08       | 29.07.2024   | Condicionamiento y Estabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
-09       | 29.07.2024   | Eliminación gaussiana. Factoración LU. <br/>  | Trefethen-Bau, Lecture 6. 
+08       | 29.07.2025   | Condicionamiento y Estabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
+09       | 29.07.2025   | Eliminación gaussiana. Factoración LU. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+10       | 31.07.2025   | Factoración PA = LU. Aplicaciones de eliminación gaussiana. | [gaussian_elimination.ipynb](code/gaussian_elimination.ipynb){:target="_blank"} 
 L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: jueves 14 de agosto** 
 
 

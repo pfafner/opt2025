@@ -54,6 +54,7 @@ L1       | 15.07.2025   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 07       | 24.07.2025   | Aplicaciones de la SVD: Compresión de imágenes. | [image_compression_ipynb](code/svd_image_compression_basico.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"}  
 08       | 29.07.2024   | Condicionamiento y Estabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
 09       | 29.07.2024   | Eliminación gaussiana. Factoración LU. <br/>  | Trefethen-Bau, Lecture 6. 
+L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: jueves 14 de agosto** 
 
 
 # Proyectos

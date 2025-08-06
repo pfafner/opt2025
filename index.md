@@ -53,10 +53,10 @@ L1       | 15.07.2025   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 06       | 22.07.2025   | Aplicaciones de la SVD: Componentes principales. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} 
 07       | 24.07.2025   | Aplicaciones de la SVD: Compresión de imágenes. | [image_compression_ipynb](code/svd_image_compression_basico.ipynb){:target="_blank"} [quetzal.png](code/quetzal.png){:target="_blank"} <br/> [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"}  
 08       | 29.07.2025   | Condicionamiento y Estabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
-09       | 29.07.2025   | Eliminación gaussiana. Factoración LU. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+09       | 29.07.2025   | Eliminación gaussiana. Factoración LU. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. <br/> Burden-Faires, 6.1. 
 10       | 31.07.2025   | Factoración PA = LU. Aplicaciones de eliminación gaussiana. | [gaussian_elimination.ipynb](code/gaussian_elimination.ipynb){:target="_blank"} 
 L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: jueves 14 de agosto**  
-11       | 05.08.2025   | Técnicas de pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burden-Faires, 10.2. <br/>  [pivoteo.xlsx](code/pivoteo.xlsx){:target="_blank"} 
+11       | 05.08.2025   | Técnicas de pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burden-Faires, 6.2. <br/>  [pivoteo.xlsx](code/pivoteo.xlsx){:target="_blank"} 
 
 
 # Proyectos

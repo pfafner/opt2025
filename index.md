@@ -59,7 +59,8 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 11       | 05.08.2025   | Técnicas de pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burden-Faires, 6.2. <br/>  [pivoteo.xlsx](code/pivoteo.xlsx){:target="_blank"} 
 12       | 07.08.2025   | Diagonal dominancia. Matrices definidas positivas. Factoración de Cholesky. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap 6. 
 13       | 12.08.2025   | Distribución normal multivariada. Generación de una normal multivariada. [Aula 09b](aulas/Aula09b.pdf){:target="_blank"} |  
-14       | 14.08.2025   | Métodos iterativos para sistemas lineales. |  
+14       | 14.08.2025   | Métodos iterativos para sistemas lineales. |   
+15       |   |    |  
 
 
 # Proyectos

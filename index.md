@@ -59,10 +59,10 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 11       | 05.08.2025   | Técnicas de pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burden-Faires, 6.2. <br/>  [pivoteo.xlsx](code/pivoteo.xlsx){:target="_blank"} 
 12       | 07.08.2025   | Diagonal dominancia. Matrices definidas positivas. Factoración de Cholesky. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap 6. 
 13       | 12.08.2025   | Distribución normal multivariada. Generación de una normal multivariada. [Aula 09b](aulas/Aula09b.pdf){:target="_blank"} |  
-14       | 14.08.2025   | Métodos iterativos para sistemas lineales. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} |   
-15       | 19.08.2025   | Cálculo de autovalores. Método de las potencias. [Aula 11](aulas/Aula11.pdf){:target="_blank"} |   
-16       | 21.08.2025   | Proyectores. Factoración QR. Forma de Hessemberg.  [Aula 11](aulas/Aula11.pdf){:target="_blank"} |   
-
+14       | 14.08.2025   | Métodos iterativos para sistemas lineales. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni *et al.*, Cap. 4. 
+15       | 19.08.2025   | Cálculo de autovalores. Método de las potencias. *Shift-trick*. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
+16       | 21.08.2025   | Proyectores. Descomposición QR. Forma de Hessemberg. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10.  
+17       | 21.08.2025   | Cálculo de autovalores. Método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
 
 
 # Proyectos

@@ -64,6 +64,7 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 16       | 21.08.2025   | Proyectores. Descomposición QR. Forma de Hessemberg. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10.  
 17       | 21.08.2025   | Cálculo de autovalores. Método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
 L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: domingo 31 de agosto**  
+18       | 26.08.2025   |  |   
 
 
 # Proyectos

@@ -65,7 +65,7 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 17       | 21.08.2025   | Cálculo de autovalores. Método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
 L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: domingo 31 de agosto**  
 18       | 26.08.2025   | Matrices ralas. <br/> |    
-
+19       | 28.08.2025   | Ejercicios de preparación para examen. | 
 
 # Proyectos
 <div id='id-proyectos'/>

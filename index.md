@@ -66,6 +66,7 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: domingo 31 de agosto**  
 18       | 26.08.2025   | Matrices ralas. <br/> |    
 19       | 28.08.2025   | Ejercicios de preparación para examen. | 
+20       | 02.09.2025   | Agrupamiento espectral. | 
 
 # Proyectos
 <div id='id-proyectos'/>

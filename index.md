@@ -73,6 +73,13 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 
 En este curso de trabajarán dos proyectos, los cuales se indicarán más adelante. 
 
+## Primer Proyecto 
+
+**Fecha**    | **Tópicos**                                   | **Recursos**
+------------ | --------------------------------------------- |  -------------------------------------
+02.09.2025   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> [falcon.jpg](proyectos/falcon.jpg){:target="_blank"} [plane.jpg](proyectos/plane.jpg){:target="_blank"} [tree.jpg](proyectos/tree.jpg){:target="_blank"}  
+07.10.2025   | Entrega del proyecto.                         | 
+
 
 # Referencias
 <div id='id-ref'/>

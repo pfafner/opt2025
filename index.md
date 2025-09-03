@@ -77,7 +77,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 **Fecha**    | **Tópicos**                                   | **Recursos**
 ------------ | --------------------------------------------- |  -------------------------------------
-02.09.2025   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> [falcon.jpg](proyectos/falcon.jpg){:target="_blank"} [plane.jpg](proyectos/plane.jpg){:target="_blank"} [tree.jpg](proyectos/tree.jpg){:target="_blank"}  
+02.09.2025   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/>  
 07.10.2025   | Entrega del proyecto.                         | 
 
 

@@ -67,6 +67,7 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 18       | 26.08.2025   | Matrices ralas. <br/> |    
 19       | 28.08.2025   | Ejercicios de preparación para examen. | 
 20       | 02.09.2025   | Agrupamiento espectral. | 
+21       | 04.09.2025   | Pracial 1. <br/> | 
 22       | 09.09.2025   | Programación lineal. <br/> | 
 
 # Proyectos

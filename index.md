@@ -64,7 +64,7 @@ L2       | 31.07.2025   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 16       | 21.08.2025   | Proyectores. Descomposición QR. Forma de Hessemberg. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10.  
 17       | 21.08.2025   | Cálculo de autovalores. Método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27. 
 L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: domingo 31 de agosto**  
-18       | 26.08.2025   | Matrices ralas. <br/> |    
+18       | 26.08.2025   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |    
 19       | 28.08.2025   | Ejercicios de preparación para examen. | 
 20       | 02.09.2025   | Agrupamiento espectral. | 
 21       | 04.09.2025   | Pracial 1. <br/> | 

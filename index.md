@@ -71,6 +71,7 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 22       | 09.09.2025   | Programación lineal. Forma estándar. <br/> | 
 23       | 11.09.2025   | Soluciones básicas. El método Simplex. <br/> |  
 24       | 23.09.2025   | Ejemplos. Uso de Julia para solución de problemas LP.  |  
+L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 2 de octubre**
 
 
 # Proyectos

@@ -74,6 +74,7 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 2 de octubre** 
 25       | 30.09.2025   | Fundamentos de optimización. Derivadas vectoriales y matriciales. |   
 26       | 02.10.2025   | Fundamentos de optimización II. Gradiente y conjuntos de nivel. |   
+27       | 07.10.2025   | Notación asintótica. Términos de error en serie la de Taylor. |   
 
 
 # Proyectos

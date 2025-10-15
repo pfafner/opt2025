@@ -68,8 +68,8 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 19       | 28.08.2025   | Ejercicios de preparación para examen. | 
 20       | 02.09.2025   | Agrupamiento espectral. | 
 21       | 04.09.2025   | Parcial 1. <br/> | 
-22       | 09.09.2025   | Programación lineal. Forma estándar. <br/> | 
-23       | 11.09.2025   | Soluciones básicas. El método Simplex. <br/> |  
+22       | 09.09.2025   | Programación lineal. Forma estándar. <br/> | Taha, Cap. 1 <br/> Matousek-Gärner, Cap. 4
+23       | 11.09.2025   | Soluciones básicas. El método Simplex. <br/> | Taha, Cap. 2 y 3 <br/> Matousek-Gärner, Cap. 5 
 24       | 23.09.2025   | Ejemplos. Uso de Julia para solución de problemas LP.  |  
 L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 2 de octubre** 
 25       | 30.09.2025   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Fukunaga, App A.  

@@ -72,9 +72,11 @@ L3       | 21.08.2025   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 23       | 11.09.2025   | Soluciones básicas. El método Simplex. <br/> |  
 24       | 23.09.2025   | Ejemplos. Uso de Julia para solución de problemas LP.  |  
 L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 2 de octubre** 
-25       | 30.09.2025   | Fundamentos de optimización. Derivadas vectoriales y matriciales. |   
-26       | 02.10.2025   | Fundamentos de optimización II. Gradiente y conjuntos de nivel. |   
-27       | 07.10.2025   | Notación asintótica. Términos de error en serie la de Taylor. |   
+25       | 30.09.2025   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Fukunaga, App A.  
+26       | 02.10.2025   | Fundamentos de optimización II. Gradiente y conjuntos de nivel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap 1.  
+27       | 07.10.2025   | Términos de error en serie la de Taylor. Condiciones de optimalidad. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
+28       | 09.10.2025   | Funciones convexas. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Boyd-Vandenberghe. 
+29       | 14.10.2025   | Optimización 1-dimensional. |  
 
 
 # Proyectos

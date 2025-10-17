@@ -92,6 +92,17 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 07.10.2025   | Entrega del proyecto.                         | 
 
 
+## Segundo Proyecto
+
+**Fecha**     | **Tópicos**                                   | **Recursos**
+------------- | --------------------------------------------- |  -------------------------------------
+16.10.2025    | Proyecto 2 - *Optimización*.           | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
+31.10.2025    | Fecha límite para elección de tema.    |  
+07.11.2025    | Borrador de la presentación.           |  
+10-20.11.2025 | Presentaciones.                        |  
+22.11.2025    | Entrega de código, presentación e informa final. |  
+
+ 
 # Referencias
 <div id='id-ref'/>
 

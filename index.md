@@ -107,9 +107,10 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 ## Temas ya Elegidos
 
-**No.**  | **Tópico**                                   | **Expositores**
--------- | -------------------------------------------- |  -------------------------------------
-1        | Método de Nelder-Mead.                       | Ariela Mishaan, Alina Carías    
+**No.**  | **Tópico**                                               | **Expositores**
+-------- | -------------------------------------------------------- | -------------------------------------
+1        | Problema de optimización lineal (pendiente de definir).  | José Emilio Reyes 
+2        | Método de Nelder-Mead.                                   | Ariela Mishaan, Alina Carías    
 
 
 # Referencias

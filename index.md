@@ -104,7 +104,14 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 10-20.11.2025 | Presentaciones.                        |  
 22.11.2025    | Entrega de código, presentación e informa final. |  
 
- 
+
+## Temas ya Elegidos
+
+**No.**  | **Tópico**                                   | **Expositores**
+-------- | -------------------------------------------- |  -------------------------------------
+1        | Método de Nelder-Mead.                       | Ariela Mishaan, Alina Carías    
+
+
 # Referencias
 <div id='id-ref'/>
 

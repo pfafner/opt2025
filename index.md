@@ -79,6 +79,8 @@ L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 0
 29       | 14.10.2025   | Optimización 1-dimensional. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} |  
 30       | 16.10.2025   | Descenso gradiente (GD). Ejemplos. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
 31       | 21.10.2025   | Descenso gradiente de Newton. Hessiano aproximado.  |  
+32       | 23.10.2025   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein.  |  
+32       | 23.10.2025   | Convergencia de la búsqueda en línea. |  
 
 
 # Proyectos
@@ -102,7 +104,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 31.10.2025    | Fecha límite para elección de tema.    |  
 07.11.2025    | Borrador de la presentación.           |  
 10-20.11.2025 | Presentaciones.                        |  
-22.11.2025    | Entrega de código, presentación e informa final. |  
+22.11.2025    | Entrega de código, presentación e informe final. |  
 
 
 ## Temas ya Elegidos

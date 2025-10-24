@@ -112,7 +112,8 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 1        | Problema de optimización lineal (pendiente de definir).  | José Emilio Reyes 
 2        | Método de Nelder-Mead.                                   | Ariela Mishaan, Alina Carías 
 3        | El método Húngaro.                                       | Micaela Yatáz, Mario Esteban  
-4        | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle     
+4        | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle 
+5        | Software y lenguajes para optimización.                  | Sara Guzmán 
 
 
 # Referencias

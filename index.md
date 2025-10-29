@@ -119,7 +119,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 4        | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle 
 5        | Software y lenguajes para optimización.                  | Sara Guzmán 
 6        | *Knapsack problem* (el problema de la mochila).          | Diego Soto, Ignacio Méndez 
-7        | Problema de asignación (pendiente de definir).           | Maria José, Marcos, Daniel 
+7        | *Traveling salesman problem* (TSP)                       | Maria José, Marcos, Daniel 
 8        | Métodos de punto interior.                               | José Fernández, Nikolas Badani 
 
 

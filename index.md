@@ -81,7 +81,7 @@ L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 0
 31       | 21.10.2025   | Descenso gradiente de Newton. Hessiano aproximado. [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 32       | 23.10.2025   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. [Aula 27a](aulas/Aula27a.pdf){:target="_blank"} [Aula 27b](aulas/Aula27b.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 33       | 23.10.2025   | Convergencia de la búsqueda en línea. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
-34       | 28.10.2025   | Descenso Coordenado. Gradiente Proyectado. <br/> | Nocedal-Wright, Cap. 2 
+34       | 28.10.2025   | Descenso Coordenado. Gradiente Proyectado. <br/>  [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 35       | 28.10.2025   | Regresión Lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Sección 9.3
 
 

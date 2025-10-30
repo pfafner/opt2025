@@ -83,6 +83,7 @@ L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 0
 33       | 23.10.2025   | Convergencia de la búsqueda en línea. [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 34       | 28.10.2025   | Descenso Coordenado. Gradiente Proyectado. <br/>  [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 35       | 28.10.2025   | Regresión Lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Sección 9.3
+L5       | 30.10.2025   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} [BD2023.csv](listas/BD2023.csv){:target="_blank"} <br/> **Entrega: jueves 13 de noviembre** 
 
 
 # Proyectos

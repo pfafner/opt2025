@@ -119,9 +119,11 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 3        | El método Húngaro.                                       | Micaela Yatáz, Mario Esteban  
 4        | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle 
 5        | Software y lenguajes para optimización.                  | Sara Guzmán 
-6        | *Knapsack problem* (el problema de la mochila).          | Diego Soto, Ignacio Méndez 
+6        | *Knapsack problem*.                                      | Diego Soto, Ignacio Méndez 
 7        | *Traveling salesman problem* (TSP)                       | Maria José, Marcos, Daniel 
 8        | Métodos de punto interior.                               | José Fernández, Nikolas Badani 
+9        | Problema de asignación (pendiente de definir).           | Rodrigo Ajmac, José Morales 
+10       | Optimización cuadrática.                                 | Juan Pablo Cordón, Pablo Herrera 
 
 
 # Referencias

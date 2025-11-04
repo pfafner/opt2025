@@ -113,7 +113,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 ## Temas ya Elegidos
 
 **Fecha**  | **Tópico**                                               | **Expositores**
--------..- | -------------------------------------------------------- | -------------------------------------
+---------- | -------------------------------------------------------- | -------------------------------------
 11.11.2025 | Problema de Optimización lineal (pendiente de definir).  | José Emilio Reyes 
 11.11.2025 | Problema de Optimización cuadrática.                     | Juan Pablo Cordón, Pablo Herrera 
 11.11.2025 | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle 
@@ -125,23 +125,6 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 20.11.2025 | Método de Nelder-Mead.                                   | Ariela Mishaan, Alina Carías 
 20.11.2025 | Software y lenguajes para optimización.                  | Sara Guzmán 
 
-
-## Seminario 2  -- Tópicos en Teoría de Números (temas ya elegidos)
-
-Fecha      | Expositor              | **Tópico**
----------- | ---------------------- |  -------------------------------------
-10.11.2025 | Ricardo Rodríguez      | Propiedades de los números perfectos 
-10.11.2025 | Ricardo Morales        | La conjetura de Cramèr 
-10.11.2025 | José Ángel Morales     | Conjetura de Goldbach  
-14.11.2025 | Pablo Herrera          | Aplicaciones en criptografía 
-14.11.2025 | Rodrigo Ajmac          | Aritmética de los códices 
-14.11.2025 | Sara Guzmán            | Personaje o evento histórico: Pendiente
-17.11.2025 | Micaela Yatáz          | Números p-ádicos 
-17.11.2025 | Mario Morales          | Función W de Lambert 
-17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
-21.11.2025 | Javier Ovalle          | Algoritmo de Shor
-21.11.2025 | Juan Pablo Cordón      | Curvas elípticas 
-21.11.2025 | Ian Castellanos        | La conjetura Monstruous Moonshine
 
 
 # Referencias

@@ -112,7 +112,7 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 22.11.2025    | Entrega de código, presentación e informe final. |  
 
 
-## Temas ya Elegidos
+## Horarios de Presentación Proyecto 2
 
 **Fecha**  | **Tópico**                                               | **Expositores**
 ---------- | -------------------------------------------------------- | -------------------------------------

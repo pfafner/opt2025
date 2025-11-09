@@ -85,7 +85,7 @@ L4       | 25.09.2025   | Aplicaciones de programación lineal. <br/> | [Lista 0
 35       | 28.10.2025   | Regresión Lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Sección 9.3
 L5       | 30.10.2025   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} [BD2023.csv](listas/BD2023.csv){:target="_blank"} <br/> **Entrega: jueves 13 de noviembre** 
 36       | 04.11.2025   | Gradiente Conjugado: Fletcher-Reeves, Polak-Ribère, Hestenes-Stiefel.  [Aula 31](aulas/Aula31.pdf){:target="_blank"}  [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5
-37       | 06.11.2025   | Métodos Quasi-Newton: SR1, DFP, BFGS y L-BFGS.  | Nocedal-Wright, Cap. 6 
+37       | 06.11.2025   | Métodos Quasi-Newton: SR1, DFP, BFGS.  | Nocedal-Wright, Cap. 6 
 
 
 # Proyectos

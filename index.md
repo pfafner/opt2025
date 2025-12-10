@@ -113,21 +113,20 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 22.11.2025    | Entrega de código, presentación e informe final. |  
 
 
-## Horarios de Presentación Proyecto 2
+## Presentaciones Proyecto 2
 
-**Fecha**  | **Tópico**                                               | **Expositores**
----------- | -------------------------------------------------------- | -------------------------------------
-11.11.2025 | Problema de Optimización lineal (pendiente de definir).  | José Emilio Reyes 
-11.11.2025 | Problema de Optimización cuadrática.                     | Juan Pablo Cordón, Pablo Herrera 
-11.11.2025 | Problema de Transporte (pendiente de definir).           | Ricardo Morales, Javier Ovalle 
-13.11.2025 | Problema de asignación (pendiente de definir).           | Rodrigo Ajmac, José Morales 
-13.11.2025 | *Knapsack problem*.                                      | Diego Soto, Ignacio Méndez 
-13.11.2025 | *Traveling salesman problem* (TSP)                       | Maria José, Marcos, Daniel 
-18.11.2025 | El método Húngaro.                                       | Micaela Yatáz, Mario Esteban  
-18.11.2025 | Métodos de punto interior.                               | José Fernández, Nikolas Badani 
-20.11.2025 | Método de Nelder-Mead.                                   | Ariela Mishaan, Alina Carías 
-20.11.2025 | Software y lenguajes para optimización.                  | Sara Guzmán 
-
+**Fecha**  | **Expositores**                         | **Tópico**
+---------- | --------------------------------------- | -------------------------------------
+11.11.2025 | José Emilio Reyes                       | 
+11.11.2025 | Juan Pablo Cordón, Pablo Herrera        |  
+11.11.2025 | Ricardo Morales, Javier Ovalle          | 
+13.11.2025 | Rodrigo Ajmac, José Morales             | 
+13.11.2025 | Diego Soto, Ignacio Méndez              | 
+13.11.2025 | Maria José, Marcos, Daniel              | 
+18.11.2025 | Micaela Yatáz, Mario Esteban            | 
+18.11.2025 | José Fernández, Nikolas Badani          | 
+20.11.2025 | Ariela Mishaan, Alina Carías            | 
+20.11.2025 | Sara Guzmán                             |  
 
 
 # Referencias

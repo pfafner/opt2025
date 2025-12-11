@@ -118,14 +118,14 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 **Fecha**  | **Expositores**                         | **Tópico**
 ---------- | --------------------------------------- | -------------------------------------
 11.11.2025 | José Emilio Reyes                       | 
-11.11.2025 | Juan Pablo Cordón, Pablo Herrera        |  
+11.11.2025 | Juan Pablo Cordón, Pablo Herrera        | Optimización cuadrática
 11.11.2025 | Ricardo Morales, Javier Ovalle          | 
 13.11.2025 | Rodrigo Ajmac, José Morales             | 
-13.11.2025 | Diego Soto, Ignacio Méndez              | 
-13.11.2025 | Maria José, Marcos, Daniel              | 
-18.11.2025 | Micaela Yatáz, Mario Esteban            | 
+13.11.2025 | Diego Soto, Ignacio Méndez              | El problema Knapsack
+13.11.2025 | Maria José, Marcos, Daniel              | TSP
+18.11.2025 | Micaela Yatáz, Mario Esteban            | Problemas de asignación: El método húngaro
 18.11.2025 | José Fernández, Nikolas Badani          | 
-20.11.2025 | Ariela Mishaan, Alina Carías            | 
+20.11.2025 | Ariela Mishaan, Alina Carías            | Optimización sin derivadas: El método de Nelder-Mead
 20.11.2025 | Sara Guzmán                             |  
 
 

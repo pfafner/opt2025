@@ -124,9 +124,9 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 13.11.2025 | Diego Soto, Ignacio Méndez              | El problema Knapsack
 13.11.2025 | Maria José, Marcos, Daniel              | TSP
 18.11.2025 | Micaela Yatáz, Mario Esteban            | Problemas de asignación: El método húngaro
-18.11.2025 | José Fernández, Nikolas Badani          | 
+18.11.2025 | José Fernández, Nikolas Badani          | Métodos de punto interior 
 20.11.2025 | Ariela Mishaan, Alina Carías            | Optimización sin derivadas: El método de Nelder-Mead
-20.11.2025 | Sara Guzmán                             |  
+20.11.2025 | Sara Guzmán                             | Software para optimización  
 
 
 # Referencias

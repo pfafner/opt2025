@@ -117,10 +117,10 @@ En este curso de trabajarán dos proyectos, los cuales se indicarán más adelan
 
 **Fecha**  | **Expositores**                         | **Tópico**
 ---------- | --------------------------------------- | -------------------------------------
-11.11.2025 | José Emilio Reyes                       | 
+11.11.2025 | José Emilio Reyes                       | El problema de ruteo
 11.11.2025 | Juan Pablo Cordón, Pablo Herrera        | Optimización cuadrática
-11.11.2025 | Ricardo Morales, Javier Ovalle          | 
-13.11.2025 | Rodrigo Ajmac, José Morales             | 
+11.11.2025 | Ricardo Morales, Javier Ovalle          | Problemas de transporte 
+13.11.2025 | Rodrigo Ajmac, José Morales             | Problemas de asignación 
 13.11.2025 | Diego Soto, Ignacio Méndez              | El problema Knapsack
 13.11.2025 | Maria José, Marcos, Daniel              | El problema del TSP
 18.11.2025 | Micaela Yatáz, Mario Esteban            | Problemas de asignación: El método húngaro
